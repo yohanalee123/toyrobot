@@ -1,7 +1,6 @@
-from toyrobot.run import main
+from run import main
 
 import fileinput
-
 
 class TestRuntime:
     def test_run_example_a(self, monkeypatch, capsys):
