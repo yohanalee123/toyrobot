@@ -1,4 +1,4 @@
-from toyrobot.robot.position import Position, InvalidPosition
+from robot.position import Position, InvalidPosition
 
 # A simple ring implemented as nested dicts (a whole class would be overkill)
 COMPASS = {
