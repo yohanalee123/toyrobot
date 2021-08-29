@@ -1,8 +1,8 @@
 import fileinput
 
 
-from toyrobot.robot import Robot
-from toyrobot.robot.command import *
+from robot import Robot
+from robot.command import *
 
 
 def main():

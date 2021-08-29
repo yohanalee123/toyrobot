@@ -1,4 +1,4 @@
-from run import main
+from toyrobot.run import main
 
 import fileinput
 

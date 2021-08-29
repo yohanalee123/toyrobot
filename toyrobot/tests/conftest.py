@@ -2,9 +2,6 @@
 
 import pytest
 
-
-
-
 @pytest.fixture
 def robot():
     """A simple fixture providing a robot instance"""
